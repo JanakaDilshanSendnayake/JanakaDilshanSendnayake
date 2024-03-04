@@ -14,7 +14,7 @@
 <br><br>
 ~💬 Ask me about Python and Java
 <br><br>
-~📫 You can reach me at <a href="mailto:janaka.20221496@iit.ac.lk"/>janaka.20221496@iit.ac.lk</a></strong>strong></p>
+~📫 You can reach me at <a href="mailto:janaka.20221496@iit.ac.lk"/>janaka.20221496@iit.ac.lk</a></strong></p>
 <br><br><br><br>
 
 ## 🌐 Socials:
