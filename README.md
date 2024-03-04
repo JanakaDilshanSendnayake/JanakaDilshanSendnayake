@@ -10,11 +10,11 @@
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" width="400">
 
-<p>~🌱 I’m currently learning Data Science and Artificial Intelligence
+<p><strong>~🌱 I’m currently learning Data Science and Artificial Intelligence
 <br><br>
 ~💬 Ask me about Python and Java
 <br><br>
-~📫 You can reach me at <a href="mailto:janaka.20221496@iit.ac.lk"/>janaka.20221496@iit.ac.lk</a></p>
+~📫 You can reach me at <a href="mailto:janaka.20221496@iit.ac.lk"/>janaka.20221496@iit.ac.lk</a></strong>strong></p>
 <br><br><br><br>
 
 ## 🌐 Socials:
