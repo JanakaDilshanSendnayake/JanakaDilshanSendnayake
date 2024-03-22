@@ -4,7 +4,7 @@
 
 ## 👽 About Me:
 
-[![](https://visitcount.itsvg.in/api?id=JanakaDilshanSendnayake&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JanakaDilshanSendnayake&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <br><be>
 
