@@ -8,7 +8,7 @@
 
 <br><be>
 
-<img src="https://github.com/JanakaDilshanSendnayake/JanakaDilshanSendnayake/blob/main/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966.gif" align="right" width="400" height="285">
+<img src="https://github.com/JanakaDilshanSendnayake/JanakaDilshanSendnayake/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="400" >
 
 <p><strong>~🌱 I’m currently learning Data Science and Artificial Intelligence
 <br><br>
